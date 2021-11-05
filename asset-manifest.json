@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://onitolobabatunde.github.io/csb-t73gc/static/css/main.de471eb2.chunk.css",
+    "main.js": "https://onitolobabatunde.github.io/csb-t73gc/static/js/main.b32b473f.chunk.js",
+    "main.js.map": "https://onitolobabatunde.github.io/csb-t73gc/static/js/main.b32b473f.chunk.js.map",
+    "runtime-main.js": "https://onitolobabatunde.github.io/csb-t73gc/static/js/runtime-main.356e0e57.js",
+    "runtime-main.js.map": "https://onitolobabatunde.github.io/csb-t73gc/static/js/runtime-main.356e0e57.js.map",
+    "static/js/2.57567988.chunk.js": "https://onitolobabatunde.github.io/csb-t73gc/static/js/2.57567988.chunk.js",
+    "static/js/2.57567988.chunk.js.map": "https://onitolobabatunde.github.io/csb-t73gc/static/js/2.57567988.chunk.js.map",
+    "index.html": "https://onitolobabatunde.github.io/csb-t73gc/index.html",
+    "static/css/main.de471eb2.chunk.css.map": "https://onitolobabatunde.github.io/csb-t73gc/static/css/main.de471eb2.chunk.css.map",
+    "static/js/2.57567988.chunk.js.LICENSE.txt": "https://onitolobabatunde.github.io/csb-t73gc/static/js/2.57567988.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.356e0e57.js",
+    "static/js/2.57567988.chunk.js",
+    "static/css/main.de471eb2.chunk.css",
+    "static/js/main.b32b473f.chunk.js"
+  ]
+}
